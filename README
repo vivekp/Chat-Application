@@ -1,0 +1,6 @@
+This is a Chat Application built using network programming as a tool to learn networking and its basic concepts.
+
+If you are on a Linux machine, execute the script rs.sh. This starts the server.
+On remote Linux machine execute 'java ChatClient [you] [other]'. This connects the client to the server.
+
+HAPPY CHATTING !!!
